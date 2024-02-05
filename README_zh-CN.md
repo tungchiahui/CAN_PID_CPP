@@ -1,2 +1,8 @@
-1. ### 使用CubeMX生成一个新的功能后，将该目录下的所有文件移动到工程根目录即可完成Vinci机器人队STM32Cube标准C/C++工程的建立！
-2. ### 然后可以修改本自述文件，变为你工程的自述文件。
+1. 工程名: CAN_PID_CPP
+2. 版本: v1.0
+3. 版本状态: 预发行版本
+4. 作者: Tung Chia-hui
+5. 网站: https://github.com/tungchiahui
+6. 电子邮箱: tungchiahui@gmail.com
+7. 组织: VinciRobot
+8. 构建日期: 2024-02-05
